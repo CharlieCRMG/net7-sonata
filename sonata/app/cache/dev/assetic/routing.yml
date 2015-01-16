@@ -1,5 +1,0 @@
-_assetic:
-    resource: .
-    type: assetic
-_app:
-    resource: /Users/max2thousand/www/cms-demo-2/app/config/routing_dev.yml
